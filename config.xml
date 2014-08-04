@@ -1,11 +1,12 @@
-<?xml version   ="1.0" encoding="UTF-8" ?>
-<widget xmlns   = "http://www.w3.org/ns/widgets"
-    xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "com.intel.sample"
-    versioncode = "1"
-    version     = "1.0.0">
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.example.hello" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    
     
     <name>Skynet Waybill Tracking</name>
+    
+    <description>
+        Skynet Waybill Tracking
+    </description>
     
     <content src="index.html"/>
     <icon src="icon.png" width="256" height="256" />
