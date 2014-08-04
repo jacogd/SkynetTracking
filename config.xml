@@ -9,6 +9,13 @@
     
     <content src="index.html"/>
     <icon src="icon.png" width="256" height="256" />
+    <icon src="icon.png" gap:platform="android" gap:qualifier="ldpi" />
+    <icon src="icon.png" gap:platform="android" gap:qualifier="mdpi" />
+    <icon src="icon.png" gap:platform="android" gap:qualifier="hdpi" />
+    <icon src="icon.png" gap:platform="android" gap:qualifier="xhdpi" />
+    <icon src="icon.png" gap:platform="android" gap:qualifier="xxhdpi" />
+    <icon src="icon.png" gap:platform="android" gap:qualifier="fr-xxhdpi" />
+
     
 
 </widget>
